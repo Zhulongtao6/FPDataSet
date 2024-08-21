@@ -1,0 +1,42 @@
+{
+    "RUNWAY_02R":{
+        "name":"RUNWAY_02R",
+        "lat":"30°31'10" ,
+        "lon":"103°56'12",
+        "altitude":"512.4",
+        "true_heading":"21.8",
+        "letter":"8X",
+        "der_lat":"30°32'57",
+        "der_lon":"103°57'02"
+    },
+    "RUNWAY_20L" : {
+        "name":"RUNWAY_20L",
+        "lat":"30°32'57" ,
+        "lon":"103°57'02",
+        "altitude":"512.4",
+        "true_heading":"201.8",
+        "letter":"9Y",
+        "der_lat":"30°31'10",
+        "der_lon":"103°56'12"
+    },
+    "RUNWAY_02L" : {
+        "name":"RUNWAY_02L",
+        "lat":"30°33'48" ,
+        "lon":"103°56'24",
+        "altitude":"512.4",
+        "true_heading":"21.8",
+        "letter":"9W",
+        "der_lat":"30°35'36",
+        "der_lon":"103°57'15"
+    },
+    "RUNWAY_20R" : {
+        "name":"RUNWAY_20R",
+        "lat":"30°35'36" ,
+        "lon":"103°57'15",
+        "altitude":"512.4",
+        "true_heading":"201.8",
+        "letter":"9Z",
+        "der_lat":"30°33'48",
+        "der_lon":"103°56'24"
+    }
+}

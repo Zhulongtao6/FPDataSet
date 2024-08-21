@@ -1,0 +1,454 @@
+{
+    "obstacle1": {
+        "name": "木耳场",
+        "obstype": "building",
+        "magnetic_bearing": 2,
+        "distance": 10181,
+        "coordinates": {"lat": "29°48'39.0\"", "lon": "106°38'27.7\""},
+        "altitude": 571,
+        "important": null
+      },
+      "obstacle2": {
+        "name": "山顶",
+        "obstype": "moutain",
+        "magnetic_bearing": 13,
+        "distance": 13306,
+        "coordinates": {"lat": "29°50'12.3\"", "lon": "106°40'05.5\""},
+        "altitude": 559.6,
+        "important": null
+      },
+      "obstacle3": {
+        "name": "石鞋场（石龙寺）",
+        "obstype": "building",
+        "magnetic_bearing": 14,
+        "distance": 13826,
+        "coordinates": {"lat": "29°50'26.7\"", "lon": "106°40'21.2\""},
+        "altitude": 583,
+        "important": "RWY20L/20R最后进近控制障碍物"
+    },
+    "obstacle4": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 16,
+        "distance": 14123,
+        "coordinates": {"lat": "29°50'32.3\"", "lon": "106°40'41.8\""},
+        "altitude": 569.6,
+        "important": null
+    },
+    "obstacle5": {
+        "name": "石鞋镇蓄水池",
+        "obstype": "water reservoir",
+        "magnetic_bearing": 19,
+        "distance": 14486,
+        "coordinates": {"lat": "29°50'39.0\"", "lon": "106°41'04.4\""},
+        "altitude": 573.9,
+        "important": null
+    },
+    "obstacle6": {
+        "name": "揽月小区宿舍楼",
+        "obstype": "building",
+        "magnetic_bearing": 20,
+        "distance": 6844,
+        "coordinates": {"lat": "29°46'39.4\"", "lon": "106°39'49.6\""},
+        "altitude": 450.6,
+        "important": null
+    },
+    "obstacle7": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 21,
+        "distance": 14471,
+        "coordinates": {"lat": "29°50'32.8\"", "lon": "106°41'24.8\""},
+        "altitude": 575.5,
+        "important": null
+    },
+    "obstacle8": {
+        "name": "20R下滑台天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 24,
+        "distance": 429,
+        "coordinates": {"lat": "29°43'48.2\"", "lon": "106°38'47.8\""},
+        "altitude": 1322,
+        "important": null
+    },
+    "obstacle9": {
+        "name": "20L下滑台天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 36,
+        "distance": 1634,
+        "coordinates": {"lat": "29°43'52.1\"", "lon": "106°39'03.9\""},
+        "altitude": 425.3,
+        "important": null
+    },
+    "obstacle10": {
+        "name": "王家沟 (石合寨)",
+        "obstype": "mountain",
+        "magnetic_bearing": 45,
+        "distance": 12166,
+        "coordinates": {"lat": "29°47'51.1\"", "lon": "106°43'45.7\""},
+        "altitude": 495,
+        "important": null
+    },
+    "obstacle11": {
+        "name": "21下滑台天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 50,
+        "distance": 4146,
+        "coordinates": {"lat": "29°44'39.3\"", "lon": "106°40'23.2\""},
+        "altitude": 412.7,
+        "important": null
+    },
+    "obstacle12": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 50,
+        "distance": 8624,
+        "coordinates": {"lat": "29°46'14.5\"", "lon": "106°42'29.3\""},
+        "altitude": 463.4,
+        "important": null
+    },
+    "obstacle13": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 60,
+        "distance": 6446,
+        "coordinates": {"lat": "29°44'59.8\"", "lon": "106°41'52.5\""},
+        "altitude": 468.6,
+        "important": null
+    },
+    "obstacle14": {
+        "name": "东区场监雷达站天线铁塔",
+        "obstype": "antenna",
+        "magnetic_bearing": 62,
+        "distance": 2372,
+        "coordinates": {"lat": "29°43'46.2\"", "lon": "106°39'46.3\""},
+        "altitude": 433.4,
+        "important": "RWY03ILS/DME final approach control obstacle"
+    },
+    "obstacle15": {
+        "name": "大坡顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 72,
+        "distance": 10030,
+        "coordinates": {"lat": "29°44'59.2\"", "lon": "106°44'20.4\""},
+        "altitude": 843.1,
+        "important": "Class C, D circle control obstacle"
+    },
+    "obstacle16": {
+        "name": "东区塔台",
+        "obstype": "control tower",
+        "magnetic_bearing": 74,
+        "distance": 1387,
+        "coordinates": {"lat": "29°43'22.5\"", "lon": "106°39'18.4\""},
+        "altitude": 506.7,
+        "important": "RWY02R/21 ILS/DME final approach, RWY02L/02R/03/20L/20R GP INOP, RWY02L/02R/03/21/20L/20R LNAV final approach, RWY03/21/20L/20R LNAV/VNAV final approach, RWY20LVOR/DME missed approach control obstacle"
+    },
+    "obstacle17": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 78,
+        "distance": 8999,
+        "coordinates": {"lat": "29°44'20.6\"", "lon": "106°43'53.9\""},
+        "altitude": 773.4,
+        "important": null
+    },
+    "obstacle18": {
+        "name": "旱土沱北（山王庙）",
+        "obstype": "building",
+        "magnetic_bearing": 82,
+        "distance": 8373,
+        "coordinates": {"lat": "29°43'56.2\"", "lon": "106°43'36.1\""},
+        "altitude": 733.4,
+        "important": null
+    },
+    "obstacle19": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 94,
+        "distance": 7153,
+        "coordinates": {"lat": "29°43'01.6\"", "lon": "106°42'55.4\""},
+        "altitude": 664.1,
+        "important": null
+    },
+    "obstacle20": {
+        "name": "03下滑台天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 99,
+        "distance": 2153,
+        "coordinates": {"lat": "29°43'00.1\"", "lon": "106°39'48.9\""},
+        "altitude": 419.7,
+        "important": null
+    },
+    "obstacle21": {
+        "name": "玉峰山雷达站雷达塔",
+        "obstype": "radar",
+        "magnetic_bearing": 122,
+        "distance": 7796,
+        "coordinates": {"lat": "29°41'00.2\"", "lon": "106°42'39.5\""},
+        "altitude": 716.2,
+        "important": null
+    },
+    "obstacle22": {
+        "name": "东区高杆灯",
+        "obstype": "high mast light",
+        "magnetic_bearing": 125,
+        "distance": 753,
+        "coordinates": {"lat": "29°42'54.6\"", "lon": "106°38'52.5\""},
+        "altitude": 439.6,
+        "important": "RWY20LILS/DME final approach control obstacle"
+    },
+    "obstacle23": {
+        "name": "玉峰山",
+        "obstype": "mountain",
+        "magnetic_bearing": 125,
+        "distance": 7315,
+        "coordinates": {"lat": "29°40'57.3\"", "lon": "106°42'16.4\""},
+        "altitude": 690,
+        "important": null
+    },
+    "obstacle24": {
+        "name": "国内候机楼T3A",
+        "obstype": "terminal",
+        "magnetic_bearing": 127,
+        "distance": 1327,
+        "coordinates": {"lat": "29°42'43.6\"", "lon": "106°39'09.7\""},
+        "altitude": 456.8,
+        "important": null
+    },
+    "obstacle25": {
+        "name": "望楼台",
+        "obstype": "tower",
+        "magnetic_bearing": 128,
+        "distance": 8537,
+        "coordinates": {"lat": "29°40'23.7\"", "lon": "106°42'44.8\""},
+        "altitude": 697,
+        "important": null
+    },
+    "obstacle26": {
+        "name": "铁山坪",
+        "obstype": "mountain",
+        "magnetic_bearing": 159,
+        "distance": 12136,
+        "coordinates": {"lat": "29°37'04.3\"", "lon": "106°41'22.3\""},
+        "altitude": 587.8,
+        "important": null
+    },
+    "obstacle27": {
+        "name": "02R下滑台天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 173,
+        "distance": 1145,
+        "coordinates": {"lat": "29°42'31.7\"", "lon": "106°38'36.2\""},
+        "altitude": 426.6,
+        "important": null
+    },
+    "obstacle28": {
+        "name": "基站",
+        "obstype": "station",
+        "magnetic_bearing": 190,
+        "distance": 6229,
+        "coordinates": {"lat": "29°39'47.9\"", "lon": "106°37'58.5\""},
+        "altitude": 478,
+        "important": "RWY20L take-off path area critical obstacle"
+    },
+    "obstacle29": {
+        "name": "环山",
+        "obstype": "mountain",
+        "magnetic_bearing": 190,
+        "distance": 6243,
+        "coordinates": {"lat": "29°39'47.5\"", "lon": "106°37'58.6\""},
+        "altitude": 475.2,
+        "important": "RWY02L/02R ILS/DME, GP INOP final approach control obstacle"
+    },
+    "obstacle30": {
+        "name": "02L下滑台天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 193,
+        "distance": 1302,
+        "coordinates": {"lat": "29°42'27.0\"", "lon": "106°38'19.8\""},
+        "altitude": 428,
+        "important": null
+    },
+    "obstacle31": {
+        "name": "信息网络公司信号塔",
+        "obstype": "signal tower",
+        "magnetic_bearing": 222,
+        "distance": 1681,
+        "coordinates": {"lat": "29°42'26.5\"", "lon": "106°37'49.4\""},
+        "altitude": 460.5,
+        "important": null
+    },
+    "obstacle32": {
+        "name": "一碗水航管雷达塔",
+        "obstype": "radar",
+        "magnetic_bearing": 225,
+        "distance": 4480,
+        "coordinates": {"lat": "29°41'22.1\"", "lon": "106°36'35.6\""},
+        "altitude": 547.5,
+        "important": "RWY20L/20R missed approach, RWY02L/02R VOR/DME final approach control obstacle, Class A circle control obstacle"
+    },
+    "obstacle33": {
+        "name": "VHF台甚高频铁塔",
+        "obstype": "VHF tower",
+        "magnetic_bearing": 226,
+        "distance": 4515,
+        "coordinates": {"lat": "29°41'23.2\"", "lon": "106°36'32.4\""},
+        "altitude": 538.0,
+        "important": null
+    },
+    "obstacle34": {
+        "name": "高岩头",
+        "obstype": "mountain",
+        "magnetic_bearing": 227,
+        "distance": 4372,
+        "coordinates": {"lat": "29°41'27.4\"", "lon": "106°36'35.1\""},
+        "altitude": 514,
+        "important": null
+    },
+    "obstacle35": {
+        "name": "一碗水闭路电视塔",
+        "obstype": "CCTV tower",
+        "magnetic_bearing": 240,
+        "distance": 3254,
+        "coordinates": {"lat": "29°42'12.1\"", "lon": "106°36'47.0\""},
+        "altitude": 503.4,
+        "important": null
+    },
+    "obstacle36": {
+        "name": "泰福新居",
+        "obstype": "residential building",
+        "magnetic_bearing": 253,
+        "distance": 1945,
+        "coordinates": {"lat": "29°42'48.2\"", "lon": "106°37'20.8\""},
+        "altitude": 485.6,
+        "important": null
+    },
+    "obstacle37": {
+        "name": "北景花园",
+        "obstype": "garden",
+        "magnetic_bearing": 257,
+        "distance": 2495,
+        "coordinates": {"lat": "29°42'48.0\"", "lon": "106°36'59.6\""},
+        "altitude": 478.3,
+        "important": null
+    },
+    "obstacle38": {
+        "name": "国内候机楼T2A",
+        "obstype": "terminal",
+        "magnetic_bearing": 268,
+        "distance": 783,
+        "coordinates": {"lat": "29°43'06.9\"", "lon": "106°38'00.3\""},
+        "altitude": 446.6,
+        "important": null
+    },
+    "obstacle39": {
+        "name": "区政府拆迁安置房",
+        "obstype": "government housing",
+        "magnetic_bearing": 279,
+        "distance": 1448,
+        "coordinates": {"lat": "29°43'14.0\"", "lon": "106°37'35.9\""},
+        "altitude": 487,
+        "important": null
+    },
+    "obstacle40": {
+        "name": "区环监站住宅楼",
+        "obstype": "residential building",
+        "magnetic_bearing": 288,
+        "distance": 1506,
+        "coordinates": {"lat": "29°43'21.8\"", "lon": "106°37'35.5\""},
+        "altitude": 477.8,
+        "important": null
+    },
+    "obstacle41": {
+        "name": "西区塔台",
+        "obstype": "control tower",
+        "magnetic_bearing": 325,
+        "distance": 739,
+        "coordinates": {"lat": "29°43'27.6\"", "lon": "106°38'13.0\""},
+        "altitude": 478,
+        "important": "RWY02LILS/DME final approach control obstacle"
+    },
+    "obstacle42": {
+        "name": "三根树 (铁家湾)",
+        "obstype": "tree",
+        "magnetic_bearing": 325,
+        "distance": 9183,
+        "coordinates": {"lat": "29°47'05.6\"", "lon": "106°35'02.2\""},
+        "altitude": 515,
+        "important": null
+    },
+    "obstacle43": {
+        "name": "空管气象雷达站",
+        "obstype": "radar station",
+        "magnetic_bearing": 333,
+        "distance": 1079,
+        "coordinates": {"lat": "29°43'39.1\"", "lon": "106°38'10.0\""},
+        "altitude": 463.4,
+        "important": null
+    },
+    "obstacle44": {
+        "name": "桃源公园",
+        "obstype": "park",
+        "magnetic_bearing": 334,
+        "distance": 3040,
+        "coordinates": {"lat": "29°44'34.9\"", "lon": "106°37'34.8\""},
+        "altitude": 499,  
+        "important": null
+    },
+    "obstacle45": {
+        "name": "气象楼",
+        "obstype": "meteorological station",
+        "magnetic_bearing": 335,
+        "distance": 947,
+        "coordinates": {"lat": "29°43'35.9\"", "lon": "106°38'13.6\""},
+        "altitude": 456,
+        "important": null
+    },
+    "obstacle46": {
+        "name": "杨家坪 (童家梁)",
+        "obstype": "mountain",
+        "magnetic_bearing": 336,
+        "distance": 11122,
+        "coordinates": {"lat": "29°48'34.1\"", "lon": "106°35'30.5\""},
+        "altitude": 671,
+        "important": null
+    },
+    "obstacle47": {
+        "name": "国航机库",
+        "obstype": "hangar",
+        "magnetic_bearing": 344,
+        "distance": 1186,
+        "coordinates": {"lat": "29°43'45.0\"", "lon": "106°38'15.8\""},
+        "altitude": 446.1,
+        "important": null
+    },
+    "obstacle48": {
+        "name": "金易世家伯爵避雷针尖",
+        "obstype": "lightning rod",
+        "magnetic_bearing": 344,
+        "distance": 2629,
+        "coordinates": {"lat": "29°44'30.3\"", "lon": "106°38'01.8\""},
+        "altitude": 471.2,
+        "important": null
+    },
+    "obstacle49": {
+        "name": "龙王洞",
+        "obstype": "cave",
+        "magnetic_bearing": 346,
+        "distance": 745,
+        "coordinates": {"lat": "29°49'56.9\"", "lon": "106°36'13.3\""},
+        "altitude": 13101,  
+        "important": null
+    },
+    "obstacle50": {
+        "name": "石牛沟 (野猪幽)",
+        "obstype": "valley",
+        "magnetic_bearing": 355,
+        "distance": 14974,
+        "coordinates": {"lat": "29°51'10.7\"", "lon": "106°37'17.9\""},
+        "altitude": 901,
+        "important": null
+    }
+
+
+}

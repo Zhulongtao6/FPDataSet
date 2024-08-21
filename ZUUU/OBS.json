@@ -1,0 +1,911 @@
+{ 
+    "obstacle1": {
+      "name": "光华杏林",
+      "obstype": "building",
+      "magnetic_bearing": 12,
+      "distance": 10601,
+      "coordinates": {"lat": "30°35'16.27\"", "lon": "103°56'58.78\""},
+      "altitude": 569.6,
+      "important": null
+    },
+    "obstacle2": {
+      "name": "基站天线",
+      "obstype": "antenna",
+      "magnetic_bearing": 14,
+      "distance": 3743,
+      "coordinates": {"lat": "30°36'39.37\"", "lon": "103°57'28.27\""},
+      "altitude": 529,
+      "important": "RWY02L起飞航径区重要障碍物"
+    },
+    "obstacle3": {
+      "name": "红色房顶居民楼",
+      "obstype": "building",
+      "magnetic_bearing": 15,
+      "distance": 2527,
+      "coordinates": {"lat": "30°36'1.15\"", "lon": "103°57'17.10\""},
+      "altitude": 517.2,
+      "important": "RWY02L起飞航径区重要障碍物"
+    },
+    "obstacle4": {
+        "name": "奇瑞汽车房顶",
+        "obstype": "building",
+        "magnetic_bearing": 15,
+        "distance": 2566,
+        "coordinates": {"lat": "30°36'2.36\"", "lon": "103°57'17.53\""},
+        "altitude": 518,
+        "important": "RWY02L起飞航径区重要障碍物"
+      },
+      "obstacle5": {
+        "name": "基站天线",
+        "obstype": "antenna",
+        "magnetic_bearing": 16,
+        "distance": 4142,
+        "coordinates": {"lat": "30°36'50.39\"", "lon": "103°57'37.65\""},
+        "altitude": 535.4,
+        "important": "RWY02L起飞航径区重要障碍物"
+      },
+      "obstacle6": {
+        "name": "杨树",
+        "obstype": "tree",
+        "magnetic_bearing": 17,
+        "distance": 2443,
+        "coordinates": {"lat": "30°35'57.69\"", "lon": "103°57'19.21\""},
+        "altitude": 516.0,
+        "important": "RWY02L起飞航径区重要障碍物"
+      },
+      "obstacle7": {
+        "name": "燃气站避雷针",
+        "obstype": "building",
+        "magnetic_bearing": 20,
+        "distance": 360,
+        "coordinates": {"lat": "30°34'53.79\"", "lon": "103°56'54.12\""},
+        "altitude": 525,
+        "important": "RWY02L起飞航径区重要障碍物"
+      },
+      "obstacle8": {
+        "name": "中铁西子香荷",
+        "obstype": "building",
+        "magnetic_bearing": 26,
+        "distance": 10462,
+        "coordinates": {"lat": "30°39'41.47\"", "lon": "103°59'54.91\""},
+        "altitude": 605.9,
+        "important": "RWY02L起飞航径区重要障碍物"
+      },
+      "obstacle9": {
+        "name": "*和鸿-天府金花",
+        "obstype": "building",
+        "magnetic_bearing": 29,
+        "distance": 4173,
+        "coordinates": {"lat": "30°36'38.56\"", "lon": "103°58'10.29\""},
+        "altitude": 547.8,
+        "important": "RWY02L 离场控制障碍物;RWY02L 起飞航径区重要障碍物"
+      },
+      "obstacle10": {
+        "name": "*锦上南庭",
+        "obstype": "building",
+        "magnetic_bearing": 32,
+        "distance": 3965,
+        "coordinates": {"lat": "30°36'32.9\"", "lon": "103°58'04.4\""},
+        "altitude": 542,
+        "important": null
+      },
+      "obstacle11": {
+        "name": "通讯塔（武警总队文工团）",
+        "obstype": "building",
+        "magnetic_bearing": 50,
+        "distance": 14581,
+        "coordinates": {"lat": "30°39'54.4\"", "lon": "104°03'39.8\""},
+        "altitude": 645.1,
+        "important": null
+      },
+      "obstacle12": {
+        "name": "*SAC四川航空广场",
+        "obstype": "building",
+        "magnetic_bearing": 53,
+        "distance": 14776,
+        "coordinates": {"lat": "30°39'40.3\"", "lon": "104°04'03.6\""},
+        "altitude": 695.9,
+        "important": null
+      },
+      "obstacle13": {
+        "name": "*西部鞋王大厦(武侯皮革城)",
+        "obstype": "building",
+        "magnetic_bearing": 54,
+        "distance": 4211,
+        "coordinates": {"lat": "30°36'04.3\"", "lon": "103°58'54.6\""},
+        "altitude": 533,
+        "important": null
+      },
+      "obstacle15": {
+        "name": "*首座万丽酒店",
+        "obstype": "building",
+        "magnetic_bearing": 72,
+        "distance": 11920,
+        "coordinates": {
+            "lat": "30°36'51.9\"",
+            "lon": "104°03'49.7\""
+        },
+        "altitude": 594.5,
+        "important": null
+    },
+    "obstacle16": {
+        "name": "*银海芯座字顶",
+        "obstype": "building",
+        "magnetic_bearing": 85,
+        "distance": 12901,
+        "coordinates": {
+            "lat": "30°35'29.8\"",
+            "lon": "104°04'49.2\""
+        },
+        "altitude": 593.8,
+        "important": null
+    },
+    "obstacle17": {
+        "name": "*银泰中心",
+        "obstype": "building",
+        "magnetic_bearing": 86,
+        "distance": 11499,
+        "coordinates": {
+            "lat": "30°35'16.9\"",
+            "lon": "104°04'02.9\""
+        },
+        "altitude": 704.4,
+        "important": null
+    },
+    "obstacle18": {
+      "name": "*天府国际金融中心",
+      "obstype": "building",
+      "magnetic_bearing": 87,
+      "distance": 11060,
+      "coordinates": {
+          "lat": "30°35'03.2\"",
+          "lon": "104°03'51.9\""
+      },
+      "altitude": 698.4,
+      "important": null
+  },
+    "obstacle19": {
+        "name": "*老塔台",
+        "obstype": "building",
+        "magnetic_bearing": 94,
+        "distance": 775,
+        "coordinates": {
+            "lat": "30°34'41.2\"",
+            "lon": "103°57'17.1\""
+        },
+        "altitude": 558.4,
+        "important": null
+    },
+    "obstacle20": {
+        "name": "四川广播电视中心避雷针",
+        "obstype": "building",
+        "magnetic_bearing": 100,
+        "distance": 11751,
+        "coordinates": {
+            "lat": "30°33'44.1\"",
+            "lon": "104°04'03.9\""
+        },
+        "altitude": 620.2,
+        "important": null
+    },
+    "obstacle21": {
+      "name": "*两江国际",
+      "obstype": "building",
+      "magnetic_bearing": 101,
+      "distance": 10537,
+      "coordinates": {
+          "lat": "30°34'34.0\"",
+          "lon": "104°03'20.7\""
+      },
+      "altitude": 673.7,
+      "important": null
+  },
+    "obstacle22": {
+        "name": "*棕榈泉国际中心",
+        "obstype": "building",
+        "magnetic_bearing": 102,
+        "distance": 11768,
+        "coordinates": {
+            "lat": "30°33'28.0\"",
+            "lon": "104°04'01.9\""
+        },
+        "altitude": 681.2,
+        "important": null
+    },
+    "obstacle23": {
+        "name": "*阳光丽锦 ",
+        "obstype": "building",
+        "magnetic_bearing": 103,
+        "distance": 3946,
+        "coordinates": {
+            "lat": "30°34'17.8\"",
+            "lon": "103°59'13.6\""
+        },
+        "altitude": 544.6,
+        "important": null
+    },
+    "obstacle24": {
+      "name": "泰然环球时代中心 ",
+      "obstype": "building",
+      "magnetic_bearing": 103,
+      "distance": 11439,
+      "coordinates": {
+          "lat": "30°33'27.2\"",
+          "lon": "104°03'47.5\""
+      },
+      "altitude": 690.1,
+      "important": null
+    },
+    "obstacle25": {
+      "name": "*东方希望天祥广场",
+      "obstype": "building",
+      "magnetic_bearing": 104,
+      "distance": 11677,
+      "coordinates": {"lat": "30°33'17.3\"", "lon": "104°03'55.9\""},
+      "altitude": 690.2,
+      "important": null
+    },
+    "obstacle26": {
+      "name": "成达大厦",
+      "obstype": "building",
+      "magnetic_bearing": 104,
+      "distance": 11866,
+      "coordinates": {"lat": "30°33'16.2\"", "lon": "104°04'02.0\""},
+      "altitude": 628.4,
+      "important": null
+    },
+    "obstacle27": {
+      "name": "*领地环球金融中心",
+      "obstype": "building",
+      "magnetic_bearing": 105,
+      "distance": 11275,
+      "coordinates": {"lat": "30°33'12.4\"", "lon": "104°03'37.3\""},
+      "altitude": 682.2,
+      "important": null
+    },
+    "obstacle28": {
+      "name": "*鼎能国际广场（OCG国际中心）",
+      "obstype": "building",
+      "magnetic_bearing": 109,
+      "distance": 11645,
+      "coordinates": {"lat": "30°32'42.5\"", "lon": "104°03'42.4\""},
+      "altitude": 662.8,
+      "important": null
+    },
+    "obstacle29": {
+        "name": "*川航大楼字顶",
+        "obstype": "building",
+        "magnetic_bearing": 111,
+        "distance": 1920,
+        "coordinates": {"lat": "30°34'21.9\"", "lon": "103°57'57.2\""},
+        "altitude": 549.6,
+        "important": "RWY02R 起飞航径区重要障碍物"
+    },
+    "obstacle30": {
+        "name": "icon云端（中国·欧洲中心）",
+        "obstype": "building",
+        "magnetic_bearing": 112,
+        "distance": 12382,
+        "coordinates": {"lat": "30°32'16.2\"", "lon": "104°04'02.9\""},
+        "altitude": 667.9,
+        "important": null
+    },
+    "obstacle31": {
+        "name": "*南阳盛世字顶",
+        "obstype": "building",
+        "magnetic_bearing": 127,
+        "distance": 13674,
+        "coordinates": {"lat": "30°30'21.7\"", "lon": "104°03'43.3\""},
+        "altitude": 577.1,
+        "important": null
+    },
+    "obstacle32": {
+        "name": "华阳古城北京街",
+        "obstype": "building",
+        "magnetic_bearing": 132,
+        "distance": 14179,
+        "coordinates": {"lat": "30°29'43\"", "lon": "104°03'33\""},
+        "altitude": 768.6,
+        "important": "MVA 控制障碍物"
+
+    },
+    "obstacle33": {
+      "name": "高杆灯",
+      "obstype": "building",
+      "magnetic_bearing": 134,
+      "distance": 2228,
+      "coordinates": {"lat": "30°33'54.3\"", "lon": "103°57'51.4\""},
+      "altitude": 527.8,
+      "important": "RWY02R 起飞航径区重要障碍物"
+  },
+  "obstacle34": {
+      "name": "国栋公司",
+      "obstype": "building",
+      "magnetic_bearing": 144,
+      "distance": 5840,
+      "coordinates": {"lat": "30°32'12.0\"", "lon": "103°59'01.6\""},
+      "altitude": 575.8,
+      "important": null
+  },
+  "obstacle35": {
+      "name": "露天设备",
+      "obstype": "building",
+      "magnetic_bearing": 146,
+      "distance": 6204,
+      "coordinates": {"lat": "30°31'57.7\"", "lon": "103°59'02.1\""},
+      "altitude": 575.6,
+      "important": null
+  },
+  "obstacle36": {
+      "name": "*新塔台",
+      "obstype": "building",
+      "magnetic_bearing": 152,
+      "distance": 1080,
+      "coordinates": {"lat": "30°34'11.9\"", "lon": "103°57'08.1\""},
+      "altitude": 582.2,
+      "important": "RWY02R离场控制障碍物"
+  },
+  "obstacle37": {
+      "name": "修正制药避雷针",
+      "obstype": "building",
+      "magnetic_bearing": 152,
+      "distance": 6792,
+      "coordinates": {"lat": "30°33'26.3\"", "lon": "103°58'53.9\""},
+      "altitude": 557.7,
+      "important": null
+  },
+  "obstacle38": {
+      "name": "*机场货运楼（楼顶字牌）",
+      "obstype": "building",
+      "magnetic_bearing": 153,
+      "distance": 2687,
+      "coordinates": {"lat": "30°33'26.3\"", "lon": "103°57'37.9\""},
+      "altitude": 527.1,
+      "important": "RWY02R 起飞航径区重要障碍物"
+  },
+  "obstacle39": {
+    "name": "微波塔",
+    "obstype": "tower",
+    "magnetic_bearing": 161,
+    "distance": 4477,
+    "coordinates": {"lat": "30°32'26.4\"", "lon": "103°57'47.3\""},
+    "altitude": 556.8,
+    "important": null
+},
+  "obstacle40": {
+      "name": "微波塔",
+      "obstype": "tower",
+      "magnetic_bearing": 163,
+      "distance": 7951,
+      "coordinates": {"lat": "30°30'37.4\"", "lon": "103°58'22.2\""},
+      "altitude": 552.2,
+      "important": null
+  },
+  "obstacle41": {
+      "name": "竹林",
+      "obstype": "natural",
+      "magnetic_bearing": 182,
+      "distance": 4847,
+      "coordinates": {"lat": "30°32'05.0\"", "lon": "103°56'45.3\""},
+      "altitude": 516.1,
+      "important": null
+  },
+  "obstacle42": {
+      "name": "微波塔",
+      "obstype": "tower",
+      "magnetic_bearing": 182,
+      "distance": 5283,
+      "coordinates": {"lat": "30°31'50.9\"", "lon": "103°56'46.8\""},
+      "altitude": 539.7,
+      "important": null
+  },
+  "obstacle43": {
+      "name": "黄甲广场微波塔",
+      "obstype": "tower",
+      "magnetic_bearing": 182,
+      "distance": 9333,
+      "coordinates": {"lat": "30°29'39.4\"", "lon": "103°56'46.9\""},
+      "altitude": 568.9,
+      "important": null
+  },
+  "obstacle44": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 187,
+      "distance": 6767,
+      "coordinates": {"lat": "30°31'03.8\"", "lon": "103°56'22.2\""},
+      "altitude": 532.4,
+      "important": null
+  },
+  "obstacle45": {
+    "name": "山",
+    "obstype": "natural",
+    "magnetic_bearing": 187,
+    "distance": 7143,
+    "coordinates": {"lat": "30°30'52.6\"", "lon": "103°56'15.5\""},
+    "altitude": 524.1,
+    "important": "RWY02L起飞航径区重要障碍物"
+},
+  "obstacle46": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 189,
+      "distance": 7844,
+      "coordinates": {"lat": "30°30'30.2\"", "lon": "103°56'10.8\""},
+      "altitude": 547.0,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle47": {
+      "name": "山",
+      "obstype": "natural",
+      "magnetic_bearing": 189,
+      "distance": 7910,
+      "coordinates": {"lat": "30°30'27.9\"", "lon": "103°56'11.8\""},
+      "altitude": 527.9,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle48": {
+      "name": "山",
+      "obstype": "natural",
+      "magnetic_bearing": 190,
+      "distance": 7312,
+      "coordinates": {"lat": "30°30'47.4\"", "lon": "103°56'12.8\""},
+      "altitude": 528.5,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle49": {
+      "name": "山",
+      "obstype": "natural",
+      "magnetic_bearing": 190,
+      "distance": 7555,
+      "coordinates": {"lat": "30°30'39.8\"", "lon": "103°56'09.9\""},
+      "altitude": 527.0,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle50": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 190,
+      "distance": 7767,
+      "coordinates": {"lat": "30°30'32.8\"", "lon": "103°56'10.4\""},
+      "altitude": 541.5,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle51": {
+      "name": "地形点",
+      "obstype": "natural",
+      "magnetic_bearing": 191,
+      "distance": 7985,
+      "coordinates": {"lat": "30°30'27.1\"", "lon": "103°55'55.7\""},
+      "altitude": 538.6,
+      "important": null
+  },
+  "obstacle52": {
+      "name": "地形点",
+      "obstype": "natural",
+      "magnetic_bearing": 191,
+      "distance": 7996,
+      "coordinates": {"lat": "30°30'26.6\"", "lon": "103°55'57.0\""},
+      "altitude": 539.3,
+      "important": null
+  },
+  "obstacle53": {
+    "name": "地形点",
+    "obstype": "natural",
+    "magnetic_bearing": 193,
+    "distance": 8023,
+    "coordinates": {"lat": "30°30'27.5\"", "lon": "103°55'46.2\""},
+    "altitude": 541.1,
+    "important": null
+},
+  "obstacle54": {
+      "name": "地形点",
+      "obstype": "natural",
+      "magnetic_bearing": 193,
+      "distance": 8031,
+      "coordinates": {"lat": "30°30'27.1\"", "lon": "103°55'46.8\""},
+      "altitude": 540.8,
+      "important": null
+  },
+  "obstacle55": {
+      "name": "通信天线（树型）",
+      "obstype": "antenna",
+      "magnetic_bearing": 193,
+      "distance": 11152,
+      "coordinates": {"lat": "30°28'47.8\"", "lon": "103°55'26.3\""},
+      "altitude": 585.3,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle56": {
+      "name": "地形点",
+      "obstype": "natural",
+      "magnetic_bearing": 194,
+      "distance": 8016,
+      "coordinates": {"lat": "30°30'28.2\"", "lon": "103°55'43.3\""},
+      "altitude": 541.3,
+      "important": null
+  },
+  "obstacle57": {
+      "name": "水塔（农场水塔避雷针）",
+      "obstype": "watertower",
+      "magnetic_bearing": 195,
+      "distance": 5942,
+      "coordinates": {"lat": "30°31'34.7\"", "lon": "103°55'56.5\""},
+      "altitude": 551.0,
+      "important": null
+  },
+  "obstacle58": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 195,
+      "distance": 12889,
+      "coordinates": {"lat": "30°27'56.0\"", "lon": "103°54'55.5\""},
+      "altitude": 600.6,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle59": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 195,
+      "distance": 13179,
+      "coordinates": {"lat": "30°27'45.8\"", "lon": "103°54'57.7\""},
+      "altitude": 606.2,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle60": {
+    "name": "树",
+    "obstype": "natural",
+    "magnetic_bearing": 197,
+    "distance": 12237,
+    "coordinates": {"lat": "30°28'19.7\"", "lon": "103°54'47.1\""},
+    "altitude": 599.1,
+    "important": "RWY02L起飞航径区重要障碍物"
+},
+  "obstacle61": {
+      "name": "通讯塔",
+      "obstype": "tower",
+      "magnetic_bearing": 198,
+      "distance": 11380,
+      "coordinates": {"lat": "30°28'47.0\"", "lon": "103°54'53.7\""},
+      "altitude": 588.0,
+      "important": "RWY02L起飞航径区重要障碍物"
+  },
+  "obstacle62": {
+      "name": "中国石油放空火炬",
+      "obstype": "flarestack",
+      "magnetic_bearing": 199,
+      "distance": 9152,
+      "coordinates": {"lat": "30°29'59.0\"", "lon": "103°55'05.0\""},
+      "altitude": 562.4,
+      "important": null
+  },
+  "obstacle63": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 200,
+      "distance": 3931,
+      "coordinates": {"lat": "30°28'19.7\"", "lon": "103°54'47.1\""},
+      "altitude": 519.9,
+      "important": "RWY20R起飞航径区重要障碍物"
+  },
+  "obstacle64": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 200,
+      "distance": 6110,
+      "coordinates": {"lat": "30°28'47.0\"", "lon": "103°54'53.7\""},
+      "altitude": 546.9,
+      "important": "RWY20R起飞航径区重要障碍物"
+  },
+  "obstacle65": {
+      "name": "树",
+      "obstype": "natural",
+      "magnetic_bearing": 201,
+      "distance": 5791,
+      "coordinates": {"lat": "30°29'59.8\"", "lon": "103°54'50.5\""},
+      "altitude": 546.3,
+      "important": "RWY20R起飞航径区重要障碍物"
+  },
+  "obstacle66": {
+      "name": "露天设备（胜利拌合站避雷针）",
+      "obstype": "open-air equipment",
+      "magnetic_bearing": 201,
+      "distance": 9252,
+      "coordinates": {"lat": "30°29'59.0\"", "lon": "103°55'05.0\""},
+      "altitude": 557.4,
+      "important": null
+  },
+
+  "obstacle67": {
+    "name": "二层房（烟囱）",
+    "obstype": "building",
+    "magnetic_bearing": 202,
+    "distance": 10404,
+    "coordinates": {"lat": "30°29'26.4\"", "lon": "103°54'30.2\""},
+    "altitude": 567.6,
+    "important": null
+},
+  "obstacle68": {
+    "name": "110kV输电铁塔",
+    "obstype": "transmission tower",
+    "magnetic_bearing": 204,
+    "distance": 10544,
+    "coordinates": {"lat": "30°29'26.3\"", "lon": "103°54'16.3\""},
+    "altitude": 591.1,
+    "important": "RWY20R起飞航径区重要障碍物"
+  },
+  "obstacle69": {
+    "name": "110kV输电铁塔",
+    "obstype": "transmission tower",
+    "magnetic_bearing": 204,
+    "distance": 10556,
+    "coordinates": {"lat": "30°29'23.1\"", "lon": "103°54'24.1\""},
+    "altitude": 586.5,
+    "important": null
+  },
+  "obstacle70": {
+    "name": "二层房",
+    "obstype": "building",
+    "magnetic_bearing": 205,
+    "distance": 10240,
+    "coordinates": {"lat": "30°29'36.8\"", "lon": "103°54'16.7\""},
+    "altitude": 571.2,
+    "important": null
+  },
+  "obstacle71": {
+    "name": "110kV输电高压塔",
+    "obstype": "high-voltage tower",
+    "magnetic_bearing": 206,
+    "distance": 10488,
+    "coordinates": {"lat": "30°29'31.7\"", "lon": "103°54'07.1\""},
+    "altitude": 585.6,
+    "important": null
+  },
+  "obstacle72": {
+    "name": "原胜利镇政府",
+    "obstype": "government",
+    "magnetic_bearing": 207,
+    "distance": 9162,
+    "coordinates": {"lat": "30°30'16.6\"", "lon": "103°54'12.9\""},
+    "altitude": 550.0,
+    "important": null
+  },
+  "obstacle73": {
+    "name": "胜利广场通信基站天线 (假树型)",
+    "obstype": "antenna",
+    "magnetic_bearing": 208,
+    "distance": 8898,
+    "coordinates": {"lat": "30°30'22.2\"", "lon": "103°54'22.9\""},
+    "altitude": 566.8,
+    "important": null
+  },
+  "obstacle74": {
+    "name": "原胜利小学（教学楼避雷针）",
+    "obstype": "school",
+    "magnetic_bearing": 208,
+    "distance": 9173,
+    "coordinates": {"lat": "30°30'16.6\"", "lon": "103°54'12.9\""},
+    "altitude": 557.1,
+    "important": null
+  },
+  "obstacle75": {
+    "name": "胜利镇政府内通信基站天线",
+    "obstype": "antenna",
+    "magnetic_bearing": 208,
+    "distance": 9223,
+    "coordinates": {"lat": "30°30'19.5\"", "lon": "103°54'17.0\""},
+    "altitude": 568.4,
+    "important": null
+},
+  "obstacle76": {
+      "name": "维也纳森林别墅塔尖",
+      "obstype": "residential",
+      "magnetic_bearing": 212,
+      "distance": 8693,
+      "coordinates": {"lat": "30°30'39.6\"", "lon": "103°54'01.9\""},
+      "altitude": 549.7,
+      "important": null
+  },
+  "obstacle77": {
+      "name": "维也纳森林别墅入口塔尖",
+      "obstype": "residential",
+      "magnetic_bearing": 212,
+      "distance": 8793,
+      "coordinates": {"lat": "30°30'36.3\"", "lon": "103°54'00.8\""},
+      "altitude": 553.2,
+      "important": null
+  },
+
+  "obstacle84": {
+    "name": "萨尔茨堡",
+    "obstype": "building",
+    "magnetic_bearing": 218,
+    "distance": 6593,
+    "coordinates": {"lat": "30°31'49.9\"", "lon": "103°54'21.6\""},
+    "altitude": 553.3,
+    "important": null
+},
+  "obstacle85": {
+    "name": "*中国民航西南管理局",
+    "obstype": "government",
+    "magnetic_bearing": 219,
+    "distance": 6868,
+    "coordinates": {"lat": "30°31'44.7\"", "lon": "103°54'12.5\""},
+    "altitude": 552.0,
+    "important": null
+  },
+  "obstacle86": {
+    "name": "*国栋五星城",
+    "obstype": "residential",
+    "magnetic_bearing": 239,
+    "distance": 3224,
+    "coordinates": {"lat": "30°33'46.6\"", "lon": "103°55'05.7\""},
+    "altitude": 540.4,
+    "important": null
+  },
+  "obstacle87": {
+    "name": "*鸿福名苑",
+    "obstype": "residential",
+    "magnetic_bearing": 245,
+    "distance": 3365,
+    "coordinates": {"lat": "30°33'54.5\"", "lon": "103°54'54.6\""},
+    "altitude": 541.4,
+    "important": null
+  },
+  "obstacle88": {
+    "name": "通讯天线（双流公安局）",
+    "obstype": "antenna",
+    "magnetic_bearing": 250,
+    "distance": 3064,
+    "coordinates": {"lat": "30°34'06.3\"", "lon": "103°55'00.9\""},
+    "altitude": 555.4,
+    "important": null
+  },
+  "obstacle89": {
+    "name": "通信基站天线",
+    "obstype": "antenna",
+    "magnetic_bearing": 251,
+    "distance": 2147,
+    "coordinates": {"lat": "30°34'18.5\"", "lon": "103°55'32.4\""},
+    "altitude": 528.7,
+    "important": null
+  },
+  "obstacle90": {
+    "name": "*103机库",
+    "obstype": "hangar",
+    "magnetic_bearing": 263,
+    "distance": 468,
+    "coordinates": {"lat": "30°34'40.0\"", "lon": "103°56'30.7\""},
+    "altitude": 530.5,
+    "important": null
+  },
+  "obstacle91": {
+    "name": "*通讯铁塔",
+    "obstype": "tower",
+    "magnetic_bearing": 263,
+    "distance": 2423,
+    "coordinates": {"lat": "30°34'31.3\"", "lon": "103°55'18.1\""},
+    "altitude": 561.3,
+    "important": null
+  },
+  "obstacle92": {
+    "name": "*明城百货大楼避雷针",
+    "obstype": "commercial",
+    "magnetic_bearing": 265,
+    "distance": 2462,
+    "coordinates": {"lat": "30°34'33.9\"", "lon": "103°55'16.3\""},
+    "altitude": 549.3,
+    "important": null
+  },
+  "obstacle93": {
+    "name": "*电视塔(双流广播电视台)",
+    "obstype": "tv tower",
+    "magnetic_bearing": 266,
+    "distance": 3186,
+    "coordinates": {
+        "lat": "30°34'32.1\"",
+        "lon": "103°54'49.1\""
+    },
+    "altitude": 584.6,
+    "important": null
+},
+  "obstacle94": {
+      "name": "听江微波塔",
+      "obstype": "microwave tower",
+      "magnetic_bearing": 266,
+      "distance": 13738,
+      "coordinates": {
+          "lat": "30°33'56.4\"",
+          "lon": "103°48'15.4\""
+      },
+      "altitude": 547.2,
+      "important": null
+  },
+  "obstacle95": {
+      "name": "金桥微波塔",
+      "obstype": "microwave tower",
+      "magnetic_bearing": 272,
+      "distance": 11436,
+      "coordinates": {
+          "lat": "30°34'44.0\"",
+          "lon": "103°49'39.0\""
+      },
+      "altitude": 554.3,
+      "important": null
+  },
+  "obstacle96": {
+      "name": "*龙樾湾",
+      "obstype": "residential",
+      "magnetic_bearing": 296,
+      "distance": 5548,
+      "coordinates": {
+          "lat": "30°35'57.0\"",
+          "lon": "103°53'44.1\""
+      },
+      "altitude": 619.0,
+      "important": null
+  },
+  "obstacle97": {
+      "name": "微波天线",
+      "obstype": "microwave antenna",
+      "magnetic_bearing": 297,
+      "distance": 7193,
+      "coordinates": {
+          "lat": "30°36'22.1\"",
+          "lon": "103°52'44.0\""
+      },
+      "altitude": 609.8,
+      "important": null
+  },
+  "obstacle98": {
+      "name": "*恒大城（房顶尖）",
+      "obstype": "residential",
+      "magnetic_bearing": 322,
+      "distance": 14848,
+      "coordinates": {
+          "lat": "30°40'54.6\"",
+          "lon": "103°50'53.9\""
+      },
+      "altitude": 647.2,
+      "important": null
+  },
+  "obstacle99": {
+    "name": "*丽晶港",
+    "obstype": "port",
+    "magnetic_bearing": 329,
+    "distance": 13868,
+    "coordinates": {
+        "lat": "30°41'00.1\"",
+        "lon": "103°52'04.7\""
+    },
+    "altitude": 653.9,
+    "important": null
+},
+  "obstacle100": {
+      "name": "山",
+      "obstype": "natural",
+      "magnetic_bearing": 331,
+      "distance": 13876,
+      "coordinates": {
+          "lat": "30°41'08\"",
+          "lon": "103°52'20\""
+      },
+      "altitude": 673.0,
+      "important": null
+  },
+  "obstacle101": {
+      "name": "雷达天线（球状雷达避雷针）",
+      "obstype": "radar",
+      "magnetic_bearing": 351,
+      "distance": 705,
+      "coordinates": {
+          "lat": "30°35'04.9\"",
+          "lon": "103°56'43.2\""
+      },
+      "altitude": 529.4,
+      "important": null
+  }
+
+    }
+    
+    

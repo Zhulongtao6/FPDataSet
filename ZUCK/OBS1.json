@@ -1,0 +1,426 @@
+{
+    "obstacle1": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 2,
+        "distance": 37390,
+        "coordinates": {"lat": "30°03'23\"", "lon": "106°38'21\""},
+        "altitude": 1057,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle2": {
+        "name": "姚家岩",
+        "obstype": "mountain",
+        "magnetic_bearing": 2,
+        "distance": 39395,
+        "coordinates": {"lat": "30°04'28\"", "lon": "106°38'06\""},
+        "altitude": 1316,
+        "important": "RWY02L/02R departure, missed approach, LNAV/VNAV final approach control obstacle"
+    },
+    "obstacle3": {
+        "name": "清风",
+        "obstype": "mountain",
+        "magnetic_bearing": 7,
+        "distance": 19048,
+        "coordinates": {"lat": "29°53'25\"", "lon": "106°39'24\""},
+        "altitude": 1042,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle4": {
+        "name": "南天门",
+        "obstype": "mountain",
+        "magnetic_bearing": 10,
+        "distance": 22084,
+        "coordinates": {"lat": "29°55'00\"", "lon": "106°40'08\""},
+        "altitude": 993,
+        "important": "RWY20L/20R initial approach control obstacle"
+    },
+    "obstacle5": {
+        "name": "宝鼎",
+        "obstype": "mountain",
+        "magnetic_bearing": 10,
+        "distance": 45236,
+        "coordinates": {"lat": "30°07'27\"", "lon": "106°41'49\""},
+        "altitude": 1596,
+        "important": null
+    },
+    "obstacle6": {
+        "name": "美园丽景",
+        "obstype": "residential area",
+        "magnetic_bearing": 15,
+        "distance": 20228,
+        "coordinates": {"lat": "29°53'32\"", "lon": "106°42'18\""},
+        "altitude": 633,
+        "important": null
+    },
+    "obstacle7": {
+        "name": "心悦佳苑",
+        "obstype": "residential area",
+        "magnetic_bearing": 16,
+        "distance": 19966,
+        "coordinates": {"lat": "29°53'22\"", "lon": "106°42'21\""},
+        "altitude": 625,
+        "important": null
+    },
+    "obstacle8": {
+        "name": "等高线",
+        "obstype": "mountain",
+        "magnetic_bearing": 16,
+        "distance": 52775,
+        "coordinates": {"lat": "30°10'52\"", "lon": "106°46'21\""},
+        "altitude": 920,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle9": {
+        "name": "高登山",
+        "obstype": "mountain",
+        "magnetic_bearing": 16,
+        "distance": 66578,
+        "coordinates": {"lat": "30°18'06\"", "lon": "106°48'34\""},
+        "altitude": 1705,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle10": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 19,
+        "distance": 18894,
+        "coordinates": {"lat": "29°52'54\"", "lon": "106°41'59\""},
+        "altitude": 595,
+        "important": null
+    },
+    "obstacle11": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 20,
+        "distance": 16433,
+        "coordinates": {"lat": "29°51'36\"", "lon": "106°41'36\""},
+        "altitude": 592,
+        "important": null
+    },
+    "obstacle12": {
+        "name": "兰田村天燃气井架",
+        "obstype": "gas well",
+        "magnetic_bearing": 20,
+        "distance": 18983,
+        "coordinates": {"lat": "29°52'53\"", "lon": "106°42'14\""},
+        "altitude": 610,
+        "important": null
+    },
+    "obstacle13": {
+        "name": "徐堡村蓄水塔",
+        "obstype": "water tower",
+        "magnetic_bearing": 21,
+        "distance": 17742,
+        "coordinates": {"lat": "29°52'12\"", "lon": "106°42'09\""},
+        "altitude": 564,
+        "important": null
+    },
+    "obstacle14": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 22,
+        "distance": 15744,
+        "coordinates": {"lat": "29°51'09\"", "lon": "106°41'51\""},
+        "altitude": 560,
+        "important": null
+    },
+    "obstacle15": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 22,
+        "distance": 18725,
+        "coordinates": {"lat": "29°52'39\"", "lon": "106°42'29\""},
+        "altitude": 583,
+        "important": null
+    },
+    "obstacle16": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 24,
+        "distance": 16336,
+        "coordinates": {"lat": "29°51'19\"", "lon": "106°42'20\""},
+        "altitude": 549,
+        "important": null
+    },
+    "obstacle17": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 25,
+        "distance": 17745,
+        "coordinates": {"lat": "29°51'57\"", "lon": "106°42'54\""},
+        "altitude": 564,
+        "important": null
+    },
+    "obstacle18": {
+        "name": "龙寨村平房",
+        "obstype": "house",
+        "magnetic_bearing": 27,
+        "distance": 19182,
+        "coordinates": {"lat": "29°52'33\"", "lon": "106°43'32\""},
+        "altitude": 581,
+        "important": null
+    },
+    "obstacle19": {
+        "name": "杜家坝移动信号塔",
+        "obstype": "cellular tower",
+        "magnetic_bearing": 28,
+        "distance": 17761,
+        "coordinates": {"lat": "29°51'48\"", "lon": "106°43'15\""},
+        "altitude": 559,
+        "important": null
+    },
+    "obstacle20": {
+        "name": "山顶",
+        "obstype": "mountain",
+        "magnetic_bearing": 33,
+        "distance": 16642,
+        "coordinates": {"lat": "29°50'51\"", "lon": "106°43'50\""},
+        "altitude": 549,
+        "important": null
+    },
+    "obstacle21": {
+        "name": "大湾",
+        "obstype": "bay",
+        "magnetic_bearing": 37,
+        "distance": 36555,
+        "coordinates": {"lat": "29°59'33\"", "lon": "106°51'11\""},
+        "altitude": 841,
+        "important": null
+    },
+    "obstacle22": {
+        "name": "峰顶山",
+        "obstype": "mountain",
+        "magnetic_bearing": 43,
+        "distance": 102386,
+        "coordinates": {"lat": "30°24'54\"", "lon": "107°20'22\""},
+        "altitude": 1183,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle23": {
+        "name": "田鱼山",
+        "obstype": "mountain",
+        "magnetic_bearing": 55,
+        "distance": 16806,
+        "coordinates": {"lat": "29°48'36\"", "lon": "106°46'50\""},
+        "altitude": 765,
+        "important": null
+    },
+    "obstacle24": {
+        "name": "木鱼山",
+        "obstype": "mountain",
+        "magnetic_bearing": 55,
+        "distance": 42403,
+        "coordinates": {"lat": "29°57'02\"", "lon": "106°59'27\""},
+        "altitude": 985,
+        "important": null
+    },
+    "obstacle25": {
+        "name": "白云山",
+        "obstype": "mountain",
+        "magnetic_bearing": 59,
+        "distance": 36357,
+        "coordinates": {"lat": "29°53'59\"", "lon": "106°57'19\""},
+        "altitude": 1036,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle26": {
+        "name": "凉山",
+        "obstype": "mountain",
+        "magnetic_bearing": 66,
+        "distance": 97872,
+        "coordinates": {"lat": "30°06'05\"", "lon": "107°33'18\""},
+        "altitude": 1035,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle27": {
+        "name": "土地",
+        "obstype": "land",
+        "magnetic_bearing": 99,
+        "distance": 34556,
+        "coordinates": {"lat": "29°40'46\"", "lon": "106°59'44\""},
+        "altitude": 992,
+        "important": null
+    },
+    "obstacle28": {
+        "name": "磨湾",
+        "obstype": "bay",
+        "magnetic_bearing": 108,
+        "distance": 98278,
+        "coordinates": {"lat": "29°28'24\"", "lon": "107°36'58\""},
+        "altitude": 2034,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle29": {
+        "name": "大梁子",
+        "obstype": "mountain",
+        "magnetic_bearing": 115,
+        "distance": 69694,
+        "coordinates": {"lat": "29°28'07\"", "lon": "107°18'05\""},
+        "altitude": 1348,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle30": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 134,
+        "distance": 58552,
+        "coordinates": {"lat": "29°21'48\"", "lon": "107°05'17\""},
+        "altitude": 1181,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle31": {
+        "name": "白岩",
+        "obstype": "rock",
+        "magnetic_bearing": 137,
+        "distance": 47797,
+        "coordinates": {"lat": "29°25'04\"", "lon": "106°59'40\""},
+        "altitude": 1004,
+        "important": null
+    },
+    "obstacle32": {
+        "name": "尖尖山",
+        "obstype": "mountain",
+        "magnetic_bearing": 147,
+        "distance": 22230,
+        "coordinates": {"lat": "29°33'21\"", "lon": "106°46'30\""},
+        "altitude": 676,
+        "important": null
+    },
+    "obstacle33": {
+        "name": "金佛山",
+        "obstype": "mountain",
+        "magnetic_bearing": 147,
+        "distance": 93071,
+        "coordinates": {"lat": "29°01'40\"", "lon": "107°11'09\""},
+        "altitude": 2252,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle34": {
+        "name": "老君山",
+        "obstype": "mountain",
+        "magnetic_bearing": 172,
+        "distance": 47992,
+        "coordinates": {"lat": "29°17'38\"", "lon": "106°44'06\""},
+        "altitude": 829,
+        "important": null
+    },
+    "obstacle35": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 173,
+        "distance": 81276,
+        "coordinates": {"lat": "28°59'42\"", "lon": "106°46'27\""},
+        "altitude": 1354,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle36": {
+        "name": "马鞍山",
+        "obstype": "mountain",
+        "magnetic_bearing": 180,
+        "distance": 37261,
+        "coordinates": {"lat": "29°23'00\"", "lon": "106°39'42\""},
+        "altitude": 750,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle37": {
+        "name": "大金鹰",
+        "obstype": "statue",
+        "magnetic_bearing": 189,
+        "distance": 17853,
+        "coordinates": {"lat": "29°33'33\"", "lon": "106°37'06\""},
+        "altitude": 702,
+        "important": "RWY03 intermediate approach control obstacle"
+    },
+    "obstacle38": {
+        "name": "春天岭",
+        "obstype": "ridge",
+        "magnetic_bearing": 189,
+        "distance": 18728,
+        "coordinates": {"lat": "29°33'03\"", "lon": "106°37'16\""},
+        "altitude": 682,
+        "important": null
+    },
+    "obstacle39": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 192,
+        "distance": 59980,
+        "coordinates": {"lat": "29°11'08\"", "lon": "106°32'19\""},
+        "altitude": 868,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle40": {
+        "name": "大荒坡",
+        "obstype": "mountain",
+        "magnetic_bearing": 221,
+        "distance": 38884,
+        "coordinates": {"lat": "29°29'34\"", "lon": "106°23'38\""},
+        "altitude": 699,
+        "important": null
+    },
+    "obstacle41": {
+        "name": "双山",
+        "obstype": "mountain",
+        "magnetic_bearing": 249,
+        "distance": 41424,
+        "coordinates": {"lat": "29°34'10\"", "lon": "106°14'58\""},
+        "altitude": 716,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle42": {
+        "name": "薄刀岭",
+        "obstype": "ridge",
+        "magnetic_bearing": 249,
+        "distance": 70395,
+        "coordinates": {"lat": "29°28'04\"", "lon": "105°58'27\""},
+        "altitude": 1025,
+        "important": "MVA sector control obstacle"
+    },
+    "obstacle43": {
+        "name": "河边",
+        "obstype": "river bank",
+        "magnetic_bearing": 269,
+        "distance": 46556,
+        "coordinates": {"lat": "29°41'37\"", "lon": "106°09'41\""},
+        "altitude": 803,
+        "important": null
+    },
+    "obstacle44": {
+        "name": "猪头寨",
+        "obstype": "village",
+        "magnetic_bearing": 270,
+        "distance": 20990,
+        "coordinates": {"lat": "29°42'36\"", "lon": "106°25'29\""},
+        "altitude": 702,
+        "important": null
+    },
+    "obstacle45": {
+        "name": "缙云山",
+        "obstype": "mountain",
+        "magnetic_bearing": 296,
+        "distance": 28382,
+        "coordinates": {"lat": "29°49'18\"", "lon": "106°22'21\""},
+        "altitude": 970,
+        "important": null
+    },
+    "obstacle46": {
+        "name": "狗子沟",
+        "obstype": "valley",
+        "magnetic_bearing": 299,
+        "distance": 37748,
+        "coordinates": {"lat": "29°52'08\"", "lon": "106°17'28\""},
+        "altitude": 790,
+        "important": null
+    },
+    "obstacle47": {
+        "name": "吊耳岩",
+        "obstype": "rock formation",
+        "magnetic_bearing": 349,
+        "distance": 29283,
+        "coordinates": {"lat": "29°58'31\"", "lon": "106°34'06\""},
+        "altitude": 866,
+        "important": null
+    }
+
+}

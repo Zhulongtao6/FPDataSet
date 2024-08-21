@@ -1,0 +1,2152 @@
+{
+    "PROCEDURE1": {
+        "name": "SOSLI-1Z",
+        "type": "RWY02L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK401",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "UGOPO",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK407",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE2": {
+        "name": "GUTVI-1Z",
+        "type": "RWY02L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK401",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "CK408",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "EMSOV",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "GUTVI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE3": {
+        "name": "UNRIX-1Z",
+        "type": "RWY02L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK401",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "CK408",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK410",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "XOLAL",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE4": {
+        "name": "UNRIX-4Z",
+        "type": "RWY02L离场 (by ATC)",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CA",
+                "fixwaypoint": "019",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "1800",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK903",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "L",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE5": {
+        "name": "PINAB-1Z",
+        "type": "RWY02L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK401",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "UGOPO",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK407",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK411",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE6": {
+        "name": "SOSLI-2Z",
+        "type": "RWY02R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK402",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "UGOPO",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK407",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE7": {
+        "name": "GUTVI-2Z",
+        "type": "RWY02R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK402",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "CK408",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "EMSOV",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "GUTVI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE8": {
+        "name": "UNRIX-2Z",
+        "type": "RWY02R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK402",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "CK408",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK410",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "XOLAL",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+
+        }
+    },
+    "PROCEDURE9": {
+        "name": "UNRIX-5Z",
+        "type": "RWY02R离场 (by ATC)",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CA",
+                "fixwaypoint": "019",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "1800",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK903",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "L",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE10": {
+        "name": "PINAB-2Z",
+        "type": "RWY02R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW02R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK402",
+                "flyover": null,
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "UGOPO",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK407",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK411",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE11": {
+        "name": "SOSLI-3Z",
+        "type": "RWY03S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW03S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "RW21S",
+                "flyover": "Y",
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK403",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK404",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK406",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE12": {
+        "name": "GUTVI-3Z",
+        "type": "RWY03S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW03S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "RW21S",
+                "flyover": "Y",
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK403",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK409",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "GUTVI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE13": {
+        "name": "UNRIX-3Z",
+        "type": "RWY03S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW03S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "RW21S",
+                "flyover": "Y",
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK403",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK409",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK410",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "XOLAL",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE14": {
+        "name": "PINAB-3Z",
+        "type": "RWY03S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW03S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "RW21S",
+                "flyover": "Y",
+                "magnetic_course": "019",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK403",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK404",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK405",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK411",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE15": {
+        "name": "SOSLI-1Y",
+        "type": "RWY20R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK421",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK425",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "ALDEL",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg7": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE16": {
+        "name": "SOSLI-4Y",
+        "type": "RWY20R离场 (by ATC)",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CA",
+                "fixwaypoint": "199",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "1800",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK910",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE17": {
+        "name": "GUTVI-1Y",
+        "type": "RWY20R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK421",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK425",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "GUTVI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE18": {
+        "name": "UNRIX-1Y",
+        "type": "RWY20R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK421",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK424",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE19": {
+        "name": "PINAB-1Y",
+        "type": "RWY20R离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK421",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK425",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "CK428",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg7": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE20": {
+        "name": "PINAB-4Y",
+        "type": "RWY20R离场 (by ATC)",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20R",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CA",
+                "fixwaypoint": "199",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "1800",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK910",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK428",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE21": {
+        "name": "SOSLI-2Y",
+        "type": "RWY20L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK422",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK425",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "CF",
+                "fixwaypoint": "ALDEL",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg7": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE22": {
+        "name": "SOSLI-5Y",
+        "type": "RWY20L离场 (by ATC)",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CA",
+                "fixwaypoint": "199",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "1800",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK910",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE23": {
+        "name": "GUTVI-2Y",
+        "type": "RWY20L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK422",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK425",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "GUTVI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE24": {
+        "name": "UNRIX-2Y",
+        "type": "RWY20L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK422",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK424",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE25": {
+        "name": "PINAB-2Y",
+        "type": "RWY20L离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint": "CK422",
+                "flyover": null,
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "TF",
+                "fixwaypoint": "SHC",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "2400",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK425",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "CK428",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg7": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE26": {
+        "name": "PINAB-5Y",
+        "type": "RWY20L离场 (by ATC)",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW20L",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CA",
+                "fixwaypoint": "199",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "1800",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "DF",
+                "fixwaypoint": "CK910",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "R",
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "TF",
+                "fixwaypoint": "CK428",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE27": {
+        "name": "SOSLI-3Y",
+        "type": "RWY21S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW21S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint":"RW03S",
+                "flyover": "Y",
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "CA",
+                "fixwaypoint": "184",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "900",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "DF",
+                "fixwaypoint": "CK423",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "L",
+                "altitude": "2400",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK426",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "ALDEL",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg7": {
+                "type": "TF",
+                "fixwaypoint": "SOSLI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE28": {
+        "name": "GUTVI-3Y",
+        "type": "RWY21S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW21S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint":"RW03S",
+                "flyover": "Y",
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "CA",
+                "fixwaypoint": "184",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "900",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "DF",
+                "fixwaypoint": "CK423",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "L",
+                "altitude": "2400",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK426",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "GUTVI",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE29": {
+        "name": "UNRIX-3Y",
+        "type": "RWY21S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW21S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint":"RW03S",
+                "flyover": "Y",
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "CA",
+                "fixwaypoint": "184",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "900",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "DF",
+                "fixwaypoint": "CK423",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "L",
+                "altitude": "2400",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "MEKEP",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "UNRIX",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    },
+    "PROCEDURE30": {
+        "name": "PINAB-3Y",
+        "type": "RWY21S离场",
+        "legs": {
+            "leg0":{
+                "type":null,
+                "fixwaypoint":"RW21S",
+                "flyover":null,
+                "magnetic_course":null,
+                "turn_direction":null,
+                "altitude":null,
+                "speed":null,
+                "VPA/TCH":null,
+                "performance":"RNP1"
+            },
+            "leg1": {
+                "type": "CF",
+                "fixwaypoint":"RW03S",
+                "flyover": "Y",
+                "magnetic_course": "199",
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg2": {
+                "type": "CA",
+                "fixwaypoint": "184",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": "900",
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg3": {
+                "type": "DF",
+                "fixwaypoint": "CK423",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": "L",
+                "altitude": "2400",
+                "speed": "MAX205",
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg4": {
+                "type": "TF",
+                "fixwaypoint": "CK426",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg5": {
+                "type": "TF",
+                "fixwaypoint": "CK427",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            },
+            "leg6": {
+                "type": "TF",
+                "fixwaypoint": "PINAB",
+                "flyover": null,
+                "magnetic_course": null,
+                "turn_direction": null,
+                "altitude": null,
+                "speed": null,
+                "VPA/TCH": null,
+                "performance": "RNP1"
+            }
+        }
+    }
+}
