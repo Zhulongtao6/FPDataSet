@@ -1,8 +1,8 @@
 {
     "RUNWAY_02L":{
         "name":"RUNWAY_02L",
-        "lat":"29°42'21\"",
-        "lon":"106°38'13\"",
+        "lat":"29°41'21\"",
+        "lon":"106°37'13\"",
         "altitude":"415.6",
         "true_heading":"17.0",
         "letter":"1Z",
@@ -11,8 +11,8 @@
     },
     "RUNWAY_20R":{
         "name":"RUNWAY_20R",
-        "lat":"29°43'55\"",
-        "lon":"106°38'45\"",
+        "lat":"29°42'55\"",
+        "lon":"106°37'45\"",
         "altitude":"415.6",
         "true_heading":"197.0",
         "letter":"1Y",
@@ -21,23 +21,23 @@
     },
     "RUNWAY_02R":{
         "name":"RUNWAY_02R",
-        "lat":"29°42'25",
-        "lon":"106°38'29",
+        "lat":"29°41'25",
+        "lon":"106°37'29",
         "altitude":"415.6",
         "true_heading":"17.0",
         "letter":"2Z",
-        "der_lat":"29°43'59\"",
-        "der_lon":"106°38'01\""
+        "der_lat":"29°42'59\"",
+        "der_lon":"106°37'01\""
     },
     "RUNWAY_20L":{
         "name":"RUNWAY_20L",
-        "lat":"29°43'59\"",
-        "lon":"106°38'01\"",
+        "lat":"29°44'59\"",
+        "lon":"106°39'01\"",
         "altitude":"415.6",
         "true_heading":"197.0",
         "letter":"2Y",
-        "der_lat":"29°42'25\"",
-        "der_lon":"106°38'29\""
+        "der_lat":"29°43'25\"",
+        "der_lon":"106°37'29\""
     },
     "RUNWAY_03S":{
         "name":"RUNWAY_03S",
@@ -46,17 +46,17 @@
         "altitude":"415.6",
         "true_heading":"17.0",
         "letter":"3Z",
-        "der_lat":"29°44'46\"",
-        "der_lon":"106°40'21\""
+        "der_lat":"29°43'46\"",
+        "der_lon":"106°30'21\""
     },
     "RUNWAY_21S":{
         "name":"RUNWAY_21S",
-        "lat":"29°44'46\"",
-        "lon":"106°40'21\"",
+        "lat":"29°42'46\"",
+        "lon":"106°44'21\"",
         "altitude":"415.6",
         "true_heading":"197.0",
         "letter":"3Y",
-        "der_lat":"29°42'53\"",
-        "der_lon":"106°39'42\""
+        "der_lat":"29°44'53\"",
+        "der_lon":"106°32'42\""
     }
 }
