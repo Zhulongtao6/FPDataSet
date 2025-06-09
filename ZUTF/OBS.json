@@ -1,0 +1,170 @@
+{
+  "obstacle1": {
+    "name": "房屋(电力开闭站)",
+    "obstype": "house",
+    "magnetic_bearing": 20,
+    "distance": 2262,
+    "coordinates": {
+      "lat": "N30°18'37.5\"",
+      "lon": "E104°27'07.2\""
+    },
+    "altitude": 450.0,
+    "important": "RWY02起飞航径区重要障碍物"
+  },
+  "obstacle2": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 26,
+    "distance": 14925,
+    "coordinates": {
+      "lat": "N30°17'35.9\"",
+      "lon": "E104°26'44.3\""
+    },
+    "altitude": 503,
+    "important": "RWY20 GP INOP 最后进近控制障碍物"
+  },
+  "obstacle3": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 28,
+    "distance": 2342,
+    "coordinates": {
+      "lat": "N30°18'40.1\"",
+      "lon": "E104°27'26.6\""
+    },
+    "altitude": 458.5,
+    "important": null
+  },
+  "obstacle4": {
+    "name": "高杆灯",
+    "obstype": "high_pole_light",
+    "magnetic_bearing": 30,
+    "distance": 3433,
+    "coordinates": {
+      "lat": "N30°18'33.4\"",
+      "lon": "E104°27'25.7\""
+    },
+    "altitude": 469.8,
+    "important": null
+  },
+  "obstacle5": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 80,
+    "distance": 5522,
+    "coordinates": {
+      "lat": "N30°19'06.6\"",
+      "lon": "E104°30'40.1\""
+    },
+    "altitude": 454.4,
+    "important": "RWY02起飞航径区重要障碍物"
+  },
+  "obstacle6": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 87,
+    "distance": 6492,
+    "coordinates": {
+      "lat": "N30°18'05.5\"",
+      "lon": "E104°30'03.0\""
+    },
+    "altitude": 472.5,
+    "important": "RWY11起飞航径区重要障碍物"
+  },
+  "obstacle7": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 198,
+    "distance": 10100,
+    "coordinates": {
+      "lat": "N30°17'47.5\"",
+      "lon": "E104°30'42.9\""
+    },
+    "altitude": 496.0,
+    "important": "RWY11起飞航径区重要障碍物"
+  },
+  "obstacle8": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 198,
+    "distance": 10100,
+    "coordinates": {
+      "lat": "30°17'22.6\"",
+      "lon": "104°26'39.0\""
+    },
+    "altitude": 496.0,
+    "important": "RWY02 GP INOP 最后进近控制障碍物"
+  },
+  "obstacle9": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 208,
+    "distance": 2232,
+    "coordinates": {
+      "lat": "N30°16'22.6\"",
+      "lon": "E104°26'04.2\""
+    },
+    "altitude": 450.0,
+    "important": "RWY20起飞航径区重要障碍物"
+  },
+  "obstacle10": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 259,
+    "distance": 3188,
+    "coordinates": {
+      "lat": "N30°17'03.4\"",
+      "lon": "E104°24'45.0\""
+    },
+    "altitude": 450.7,
+    "important": "RWY19起飞航径区重要障碍物"
+  },
+  "obstacle11": {
+    "name": "1号塔台",
+    "obstype": "tower",
+    "magnetic_bearing": 329,
+    "distance": 1749,
+    "coordinates": {
+      "lat": "N30°18'15.3\"",
+      "lon": "E104°26'05.4\""
+    },
+    "altitude": 540.3,
+    "important": "RWY01/02 Baro-VNAV、LNAV, RWY19 Baro-VNAV, RWY20 Baro-VNAV、LNAV,目视盘旋控制障碍物"
+  },
+  "obstacle12": {
+    "name": "高杆灯",
+    "obstype": "hill",
+    "magnetic_bearing": 349,
+    "distance": 5027,
+    "coordinates": {
+      "lat": "N30°20'06.5\"",
+      "lon": "E104°25'57.8\""
+    },
+    "altitude": 464.6,
+    "important": "RWY01起飞航径区重要障碍物"
+  },
+  "obstacle13": {
+    "name": "房子（飞行区消防主站）",
+    "obstype": "hill",
+    "magnetic_bearing": 350,
+    "distance": 4404,
+    "coordinates": {
+      "lat": "N30°19'47.2\"",
+      "lon": "E104°26'05.3\""
+    },
+    "altitude": 447.8,
+    "important": "RWY01起飞航径区重要障碍物"
+  },
+  "obstacle14": {
+    "name": "山",
+    "obstype": "mountain",
+    "magnetic_bearing": 355,
+    "distance": 6214,
+    "coordinates": {
+      "lat": "N30°20'47.9\"",
+      "lon": "E104°26'12.9\""
+    },
+    "altitude": 484.4,
+    "important": "RWY01起飞航径区重要障碍物"
+  }
+}

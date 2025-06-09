@@ -1,0 +1,770 @@
+{
+    "obstacle1": {
+        "name": "通信塔",
+        "obstype": "tower",
+        "magnetic_bearing": 2,
+        "distance": 42517,
+        "coordinates": {
+            "lat": "N30°40'28\"",
+            "lon": "E104°26'21\""
+        },
+        "altitude": 907,
+        "important": null
+    },
+    "obstacle2": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 4,
+        "distance": 158031,
+        "coordinates": {
+            "lat": "N31°42'58\"",
+            "lon": "E104°28'58\""
+        },
+        "altitude": 1352,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle3": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 5,
+        "distance": 47216,
+        "coordinates": {
+            "lat": "N30°42'59\"",
+            "lon": "E104°28'03\""
+        },
+        "altitude": 911,
+        "important": null
+    },
+    "obstacle4": {
+        "name": "铁塔",
+        "obstype": "tower",
+        "magnetic_bearing": 9,
+        "distance": 48255,
+        "coordinates": {
+            "lat": "N30°43'24\"",
+            "lon": "E104°30'14\""
+        },
+        "altitude": 859,
+        "important": null
+    },
+    "obstacle5": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 17,
+        "distance": 15438,
+        "coordinates": {
+            "lat": "30°17'36.3\"",
+            "lon": "104°26'44.0\""
+        },
+        "altitude": 512,
+        "important": "RWY19 GP INOP、LNAV最后进近控制障碍物"
+    },
+    "obstacle6": {
+        "name": "*金堂电力发电厂烟囱",
+        "obstype": "chimney",
+        "magnetic_bearing": 18,
+        "distance": 47799,
+        "coordinates": {
+            "lat": "N30°42'21\"",
+            "lon": "E104°34'50\""
+        },
+        "altitude": 666,
+        "important": "MSA控制障碍物(ARP)、MVA扇区控制障碍物"
+    },
+    "obstacle7": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 30,
+        "distance": 173671,
+        "coordinates": {
+            "lat": "N31°40'17\"",
+            "lon": "E105°18'16\""
+        },
+        "altitude": 912,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle8": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 31,
+        "distance": 153008,
+        "coordinates": {
+            "lat": "N31°13'04\"",
+            "lon": "E105°12'52\""
+        },
+        "altitude": 746,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle9": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 38,
+        "distance": 38071,
+        "coordinates": {
+            "lat": "N30°34'14\"",
+            "lon": "E104°44'30\""
+        },
+        "altitude": 606,
+        "important": null
+    },
+    "obstacle10": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 69,
+        "distance": 44611,
+        "coordinates": {
+            "lat": "N30°27'04\"",
+            "lon": "E104°52'14\""
+        },
+        "altitude": 584,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle11": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 175,
+        "distance": 60502,
+        "coordinates": {
+            "lat": "N29°45'00\"",
+            "lon": "E104°31'36\""
+        },
+        "altitude": 677,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle12": {
+        "name": "白杨湾",
+        "obstype": "bay",
+        "magnetic_bearing": 186,
+        "distance": 75268,
+        "coordinates": {
+            "lat": "N29°36'48\"",
+            "lon": "E104°23'53\""
+        },
+        "altitude": 866,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle13": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 194,
+        "distance": 96670,
+        "coordinates": {
+            "lat": "N29°26'07\"",
+            "lon": "E104°15'09\""
+        },
+        "altitude": 747,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle14": {
+        "name": "山",
+        "obstype": "mountain",
+        "magnetic_bearing": 217,
+        "distance": 16202,
+        "coordinates": {
+            "lat": "N30°17'20\"",
+            "lon": "E104°26'34\""
+        },
+        "altitude": 493,
+        "important": "RWY01 GP INOP最后进近控制障碍物"
+    },
+    "obstacle15": {
+        "name": "*仁寿604发射传输台",
+        "obstype": "transmission station",
+        "magnetic_bearing": 226,
+        "distance": 43809,
+        "coordinates": {
+            "lat": "N30°00'14\"",
+            "lon": "E104°07'57\""
+        },
+        "altitude": 692,
+        "important": null
+    },
+    "obstacle16": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 230,
+        "distance": 47142,
+        "coordinates": {
+            "lat": "N30°00'30\"",
+            "lon": "E104°04'45\""
+        },
+        "altitude": 735,
+        "important": "MSA控制障碍物(JYA)"
+    },
+    "obstacle17": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 239,
+        "distance": 42541,
+        "coordinates": {
+            "lat": "N30°04'48\"",
+            "lon": "E104°04'33\""
+        },
+        "altitude": 812,
+        "important": null
+    },
+    "obstacle18": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 249,
+        "distance": 36054,
+        "coordinates": {
+            "lat": "N30°09'42\"",
+            "lon": "E104°06'04\""
+        },
+        "altitude": 939,
+        "important": null
+    },
+    "obstacle19": {
+        "name": "毡帽山",
+        "obstype": "hill",
+        "magnetic_bearing": 253,
+        "distance": 136913,
+        "coordinates": {
+            "lat": "N29°53'02\"",
+            "lon": "E103°06'14\""
+        },
+        "altitude": 1596,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle20": {
+        "name": "油罐顶中继站",
+        "obstype": "oil tank relay station",
+        "magnetic_bearing": 256,
+        "distance": 34379,
+        "coordinates": {
+            "lat": "N30°12'05\"",
+            "lon": "E104°06'10\""
+        },
+        "altitude": 859,
+        "important": null
+    },
+    "obstacle21": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 259,
+        "distance": 31754,
+        "coordinates": {
+            "lat": "N30°13'28\"",
+            "lon": "E104°07'26\""
+        },
+        "altitude": 845,
+        "important": null
+    },
+    "obstacle22": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 260,
+        "distance": 109379,
+        "coordinates": {
+            "lat": "N30°04'25\"",
+            "lon": "E103°20'13\""
+        },
+        "altitude": 1142,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle23": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 263,
+        "distance": 89176,
+        "coordinates": {
+            "lat": "N30°09'40\"",
+            "lon": "E103°31'50\""
+        },
+        "altitude": 1005,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle24": {
+        "name": "等高线",
+        "obstype": "contour",
+        "magnetic_bearing": 266,
+        "distance": 83137,
+        "coordinates": {
+            "lat": "N30°12'03\"",
+            "lon": "E103°35'14\""
+        },
+        "altitude": 880,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle25": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 269,
+        "distance": 77646,
+        "coordinates": {
+            "lat": "N30°14'47\"",
+            "lon": "E103°38'22\""
+        },
+        "altitude": 718,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle26": {
+        "name": "杨纸厂",
+        "obstype": "factory",
+        "magnetic_bearing": 270,
+        "distance": 131622,
+        "coordinates": {
+            "lat": "N30°13'28\"",
+            "lon": "E103°04'45\""
+        },
+        "altitude": 1646,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle27": {
+        "name": "铁塔",
+        "obstype": "iron tower",
+        "magnetic_bearing": 271,
+        "distance": 26462,
+        "coordinates": {
+            "lat": "N30°17'06\"",
+            "lon": "E104°10'11\""
+        },
+        "altitude": 922,
+        "important": null
+    },
+    "obstacle28": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 272,
+        "distance": 29922,
+        "coordinates": {
+            "lat": "N30°17'19\"",
+            "lon": "E104°08'02\""
+        },
+        "altitude": 611,
+        "important": null
+    },
+    "obstacle29": {
+        "name": "*西南空管雷达",
+        "obstype": "radar",
+        "magnetic_bearing": 279,
+        "distance": 25190,
+        "coordinates": {
+            "lat": "N30°19'11\"",
+            "lon": "E104°11'06\""
+        },
+        "altitude": 1019,
+        "important": "MSA控制障碍物(JYA) MVA扇区控制障碍物"
+    },
+    "obstacle30": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 280,
+        "distance": 119634,
+        "coordinates": {
+            "lat": "N30°25'53\"",
+            "lon": "E103°12'39\""
+        },
+        "altitude": 1423,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle31": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 293,
+        "distance": 149332,
+        "coordinates": {
+            "lat": "N30°45'27\"",
+            "lon": "E102°59'06\""
+        },
+        "altitude": 5364,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle32": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 296,
+        "distance": 23957,
+        "coordinates": {
+            "lat": "N30°22'35\"",
+            "lon": "E104°12'57\""
+        },
+        "altitude": 971,
+        "important": null
+    },
+    "obstacle33": {
+        "name": "熊猫大厦",
+        "obstype": "building",
+        "magnetic_bearing": 297,
+        "distance": 38926,
+        "coordinates": {
+            "lat": "N30°26'15\"",
+            "lon": "E104°04'36\""
+        },
+        "altitude": 997,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle34": {
+        "name": "*中海锦江城",
+        "obstype": "building",
+        "magnetic_bearing": 300,
+        "distance": 44589,
+        "coordinates": {
+            "lat": "N30°28'38\"",
+            "lon": "E104°02'01\""
+        },
+        "altitude": 621,
+        "important": null
+    },
+    "obstacle35": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 302,
+        "distance": 121713,
+        "coordinates": {
+            "lat": "N30°49'42\"",
+            "lon": "E103°20'18\""
+        },
+        "altitude": 2912,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle36": {
+        "name": "华阳古城北京街",
+        "obstype": "street",
+        "magnetic_bearing": 304,
+        "distance": 43419,
+        "coordinates": {
+            "lat": "N30°29'43\"",
+            "lon": "E104°03'33\""
+        },
+        "altitude": 769,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle37": {
+        "name": "小六顶山",
+        "obstype": "hill",
+        "magnetic_bearing": 304,
+        "distance": 114267,
+        "coordinates": {
+            "lat": "N30°49'28\"",
+            "lon": "E103°25'32\""
+        },
+        "altitude": 2220,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle38": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 305,
+        "distance": 116773,
+        "coordinates": {
+            "lat": "N30°51'31\"",
+            "lon": "E103°25'09\""
+        },
+        "altitude": 2599,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle39": {
+        "name": "山顶房屋",
+        "obstype": "building",
+        "magnetic_bearing": 306,
+        "distance": 24366,
+        "coordinates": {
+            "lat": "N30°24'47\"",
+            "lon": "E104°14'03\""
+        },
+        "altitude": 1011,
+        "important": null
+    },
+    "obstacle40": {
+        "name": "*万科海悦汇",
+        "obstype": "building",
+        "magnetic_bearing": 306,
+        "distance": 41848,
+        "coordinates": {
+            "lat": "N30°29'52\"",
+            "lon": "E104°04'50\""
+        },
+        "altitude": 629,
+        "important": null
+    },
+    "obstacle41": {
+        "name": "*梵华悦境",
+        "obstype": "building",
+        "magnetic_bearing": 311,
+        "distance": 46752,
+        "coordinates": {
+            "lat": "N30°33'18\"",
+            "lon": "E104°03'55\""
+        },
+        "altitude": 696,
+        "important": null
+    },
+    "obstacle42": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 313,
+        "distance": 115757,
+        "coordinates": {
+            "lat": "N30°57'47\"",
+            "lon": "E103°31'14\""
+        },
+        "altitude": 2000,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle43": {
+        "name": "*银泰中心",
+        "obstype": "building",
+        "magnetic_bearing": 315,
+        "distance": 48987,
+        "coordinates": {
+            "lat": "N30°35'13\"",
+            "lon": "E104°03'58\""
+        },
+        "altitude": 704,
+        "important": null
+    },
+    "obstacle44": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 315,
+        "distance": 138662,
+        "coordinates": {
+            "lat": "N31°07'54\"",
+            "lon": "E103°22'22\""
+        },
+        "altitude": 4141,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle45": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 322,
+        "distance": 25728,
+        "coordinates": {
+            "lat": "N30°28'00\"",
+            "lon": "E104°16'11\""
+        },
+        "altitude": 989,
+        "important": null
+    },
+    "obstacle46": {
+        "name": "电视塔",
+        "obstype": "television tower",
+        "magnetic_bearing": 323,
+        "distance": 52726,
+        "coordinates": {
+            "lat": "N30°39'33\"",
+            "lon": "E104°05'49\""
+        },
+        "altitude": 837,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle47": {
+        "name": "*华润国际社区",
+        "obstype": "building",
+        "magnetic_bearing": 324,
+        "distance": 39653,
+        "coordinates": {
+            "lat": "N30°34'16\"",
+            "lon": "E104°11'17\""
+        },
+        "altitude": 650,
+        "important": null
+    },
+    "obstacle48": {
+        "name": "绿地468",
+        "obstype": "building",
+        "magnetic_bearing": 324,
+        "distance": 44717,
+        "coordinates": {
+            "lat": "N30°36'24\"",
+            "lon": "E104°09'17\""
+        },
+        "altitude": 995,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle49": {
+        "name": "*瑞封酒店",
+        "obstype": "building",
+        "magnetic_bearing": 325,
+        "distance": 47726,
+        "coordinates": {
+            "lat": "N30°37'57\"",
+            "lon": "E104°08'32\""
+        },
+        "altitude": 708,
+        "important": null
+    },
+    "obstacle50": {
+        "name": "高压铁塔",
+        "obstype": "high voltage tower",
+        "magnetic_bearing": 329,
+        "distance": 27628,
+        "coordinates": {
+            "lat": "N30°30'02\"",
+            "lon": "E104°17'22\""
+        },
+        "altitude": 1065,
+        "important": "MSA控制障碍物 (WFX、ZGA台.ARP)"
+    },
+    "obstacle51": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 333,
+        "distance": 28089,
+        "coordinates": {
+            "lat": "N30°30'39\"",
+            "lon": "E104°17'57\""
+        },
+        "altitude": 1051,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle52": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 334,
+        "distance": 119481,
+        "coordinates": {
+            "lat": "N31°14'25\"",
+            "lon": "E103°35'13\""
+        },
+        "altitude": 2441,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle53": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 336,
+        "distance": 29753,
+        "coordinates": {
+            "lat": "N30°31'53\"",
+            "lon": "E104°18'26\""
+        },
+        "altitude": 970,
+        "important": null
+    },
+    "obstacle54": {
+        "name": "长年峰",
+        "obstype": "hill",
+        "magnetic_bearing": 337,
+        "distance": 139279,
+        "coordinates": {
+            "lat": "N31°25'30\"",
+            "lon": "E103°49'04\""
+        },
+        "altitude": 4805,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle55": {
+        "name": "*依云上城",
+        "obstype": "building",
+        "magnetic_bearing": 339,
+        "distance": 44412,
+        "coordinates": {
+            "lat": "N30°39'30\"",
+            "lon": "E104°15'38\""
+        },
+        "altitude": 619,
+        "important": null
+    },
+    "obstacle56": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 342,
+        "distance": 31604,
+        "coordinates": {
+            "lat": "N30°33'27\"",
+            "lon": "E104°19'41\""
+        },
+        "altitude": 940,
+        "important": null
+    },
+    "obstacle57": {
+        "name": "*恒大御龙天峰1期",
+        "obstype": "building",
+        "magnetic_bearing": 343,
+        "distance": 38631,
+        "coordinates": {
+            "lat": "N30°37'10\"",
+            "lon": "E104°18'37\""
+        },
+        "altitude": 642,
+        "important": null
+    },
+    "obstacle58": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 349,
+        "distance": 37269,
+        "coordinates": {
+            "lat": "N30°37'04\"",
+            "lon": "E104°21'11\""
+        },
+        "altitude": 853,
+        "important": null
+    },
+    "obstacle59": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 349,
+        "distance": 160986,
+        "coordinates": {
+            "lat": "N31°42'10\"",
+            "lon": "E104°03'00\""
+        },
+        "altitude": 3422,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle60": {
+        "name": "金龙寺",
+        "obstype": "building",
+        "magnetic_bearing": 352,
+        "distance": 44761,
+        "coordinates": {
+            "lat": "N30°41'18\"",
+            "lon": "E104°21'42\""
+        },
+        "altitude": 825,
+        "important": null
+    },
+    "obstacle61": {
+        "name": "*四川广播702发射传输塔",
+        "obstype": "transmission station",
+        "magnetic_bearing": 355,
+        "distance": 39190,
+        "coordinates": {
+            "lat": "N30°38'31\"",
+            "lon": "E104°23'44\""
+        },
+        "altitude": 1046,
+        "important": "MSA控制障碍物 (WFX)"
+    },
+    "obstacle62": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 355,
+        "distance": 162689,
+        "coordinates": {
+            "lat": "N31°44'44\"",
+            "lon": "E104°13'08\""
+        },
+        "altitude": 2943,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle63": {
+        "name": "山",
+        "obstype": "hill",
+        "magnetic_bearing": 356,
+        "distance": 163913,
+        "coordinates": {
+            "lat": "N31°45'32\"",
+            "lon": "E104°14'25\""
+        },
+        "altitude": 2491,
+        "important": "MVA扇区控制障碍物"
+    },
+    "obstacle64": {
+        "name": "通信塔",
+        "obstype": "communication tower",
+        "magnetic_bearing": 359,
+        "distance": 48617,
+        "coordinates": {
+            "lat": "N30°43'44\"",
+            "lon": "E104°25'07\""
+        },
+        "altitude": 792,
+        "important": null
+    }
+}
